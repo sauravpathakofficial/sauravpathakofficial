@@ -2,7 +2,7 @@
 ## 🚀 About Me
 
 🎓 I am Saurav,a Front End Web Developer (React And NextJS) I am also Pursuing my Bachelor in Computer Science & Engineering and will graduate in mid-2023.
-[MyWebsite](https://sauravpathak.netlify.app/)
+[My Website](https://sauravpathak.netlify.app/)
 <!--
 **sauravpathakofficial/sauravpathakofficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
